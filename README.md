@@ -34,11 +34,10 @@ I study the AWS Skill Builder *Cloud Practitioner Essentials* course (13 modules
 
 - **`daily-log/`** — one dated file per study session. This is the timeline: what I did and learned that day.
 - **`domains/`** — distilled, lasting knowledge organized by the 4 exam domains. Daily insights get promoted here.
-- **`progress-tracker.md`** — at-a-glance status across the 13 course modules, each tagged to its exam domain.
+
 
 ### Links
 
-- 📊 [Progress tracker](progress-tracker.md)
 - 📁 Domain notes: [1 Cloud Concepts](domains/1-cloud-concepts.md) · [2 Security & Compliance](domains/2-security-and-compliance.md) · [3 Cloud Technology & Services](domains/3-cloud-technology-and-services.md) · [4 Billing, Pricing & Support](domains/4-billing-pricing-and-support.md)
 - 📝 [Daily-log template](daily-log/_TEMPLATE.md)
 
